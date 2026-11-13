@@ -27,6 +27,6 @@
     "trace:run": "npm --prefix ../mcp-adapter run --silent trace:run"
   },
   "devDependencies": {
-    "promptfoo": "0.122.0"
+    "promptfoo": "0.125.1"
   }
 }
